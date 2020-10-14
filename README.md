@@ -1,1 +1,1 @@
-# ThrowingBalls
+# CP-2
